@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631997054 source:c:\users\acer\documents\cse practise\c practise\help azowad\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
